@@ -164,6 +164,7 @@ https://github.com/user-attachments/assets/d906423f-734a-41c9-b102-b113ad3b3c25
 ## 🔥 Update
 **Any contributions are welcome!**
 
+- [x] [2026.5.1] Code2Video has been accepted to [ICML 2026](https://icml.cc/)!
 - [x] [2025.11.25] Our Code2Video has reached 1000 stars!
 - [x] [2025.11.06] We optimized `requirements.txt`, which resulted in an 80-90% reduction in installation time. Thanks to [daxiongshu](https://github.com/daxiongshu)!
 - [x] [2025.10.11] Due to issues on [ICONFINDER](https://www.iconfinder.com/account/applications), we’ve updated Code2Video auto-collected icons at [MMMC](https://huggingface.co/datasets/YanzheChen/MMMC/tree/main/assets) as a temporary alternative.
