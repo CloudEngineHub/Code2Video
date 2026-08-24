@@ -164,14 +164,14 @@ https://github.com/user-attachments/assets/d906423f-734a-41c9-b102-b113ad3b3c25
 ## 🔥 Update
 **Any contributions are welcome!**
 
-- [x] [2026.5.1] Code2Video has been accepted to [ICML 2026](https://icml.cc/)!
-- [x] [2025.11.25] Our Code2Video has reached 1000 stars!
-- [x] [2025.11.06] We optimized `requirements.txt`, which resulted in an 80-90% reduction in installation time. Thanks to [daxiongshu](https://github.com/daxiongshu)!
-- [x] [2025.10.11] Due to issues on [ICONFINDER](https://www.iconfinder.com/account/applications), we’ve updated Code2Video auto-collected icons at [MMMC](https://huggingface.co/datasets/YanzheChen/MMMC/tree/main/assets) as a temporary alternative.
-- [x] [2025.10.6] We have updated the ground truth human-made videos and metadata for the [MMMC](https://huggingface.co/datasets/YanzheChen/MMMC) dataset.
-- [x] [2025.10.3] Thanks @_akhaliq for sharing our work on [Twitter](https://x.com/_akhaliq/status/1974189217304780863)!
-- [x] [2025.10.2] We release the [arXiv](https://arxiv.org/abs/2510.01174), [code](https://github.com/showlab/Code2Video) and [dataset](https://huggingface.co/datasets/YanzheChen/MMMC) .
-- [x] [2025.9.22] Code2Video has been accepted to the **Deep Learning for Code ([DL4C](https://dl4c.github.io/)) Workshop at NeurIPS 2025**.
+- [x] `2026.08.23` Code2Video has reached 2000 stars!
+- [x] `2026.05.01` Code2Video has been accepted to [ICML 2026](https://icml.cc/)!
+- [x] `2025.11.06` We optimized `requirements.txt`, which resulted in an 80-90% reduction in installation time. Thanks to [daxiongshu](https://github.com/daxiongshu)!
+- [x] `2025.10.11` Due to issues on [ICONFINDER](https://www.iconfinder.com/account/applications), we’ve updated Code2Video auto-collected icons at [MMMC](https://huggingface.co/datasets/YanzheChen/MMMC/tree/main/assets) as a temporary alternative.
+- [x] `2025.10.06` We have updated the ground truth human-made videos and metadata for the [MMMC](https://huggingface.co/datasets/YanzheChen/MMMC) dataset.
+- [x] `2025.10.03` Thanks @_akhaliq for sharing our work on [Twitter](https://x.com/_akhaliq/status/1974189217304780863)!
+- [x] `2025.10.02` We release the [arXiv](https://arxiv.org/abs/2510.01174), [code](https://github.com/showlab/Code2Video) and [dataset](https://huggingface.co/datasets/YanzheChen/MMMC) .
+- [x] `2025.09.22` Code2Video has been accepted to the **Deep Learning for Code ([DL4C](https://dl4c.github.io/)) Workshop at NeurIPS 2025**.
 
 
 ---
